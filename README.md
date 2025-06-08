@@ -3,8 +3,8 @@ robert-hagopian-networking/"</a></h1>
 
 <h2>🔌Cabling Skills Labs</h2>
 
-- [Terminating 100-pair Telco on IDC 110](https://github.com/roberthagopian/Low-voltage-installation-labs)
-- [Cross-Connect IDC 110 to IDC 66](Cross-Connect-IDC-110-to-IDC-66)
+- [Terminating 100-pair Telco on IDC 110](https://github.com/roberthagopian/Terminating-100-pair-Telo-on-IDC-110)
+- [Cross-Connect IDC 110 to IDC 66](https://github.com/roberthagopian/Cross-Connect-IDC-110-to-IDC-66)
 
 <h2>👨‍💻 My Networking Labs</h2>
 
