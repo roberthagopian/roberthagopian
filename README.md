@@ -5,6 +5,7 @@ robert-hagopian-networking/"</a></h1>
 
 - [Terminating 100-pair Telco on IDC 110](https://github.com/roberthagopian/Terminating-100-pair-Telo-on-IDC-110)
 - [Cross-Connect IDC 110 to IDC 66](https://github.com/roberthagopian/Cross-Connect-IDC-110-to-IDC-66)
+- [Installing 25-Pair Cable from Main Telco Room to Telco Room](https://github.com/roberthagopian/25pair-main-telco-to-telco)
 
 <h2>👨‍💻 My Networking Labs</h2>
 
