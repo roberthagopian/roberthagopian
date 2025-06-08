@@ -9,11 +9,17 @@ robert-hagopian-networking/"</a></h1>
 
 <h2>🔏 Security and ☁️:Cloud Labs</h2>
 
+<h2>📝 Certificates</h2>
+<p align="left">
+  <a href="https://www.credly.com/users/robert-hagopian/badges" target="_blank">
+    <img src="https://images.credly.com/images/c70ba73e-3c8a-46fa-9d60-4a9af94ad662/blob" alt="CompTIA Network+ Certification" width="100" />
+  </a>
+</p>
+
 <h2> 🤳 Connect with me:</h2>
 
-
-[<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt=" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
+[<img align="left" alt=" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
 
 [instagram]: https://www.instagram.com/beverlytrills/
 [linkedin]: https://linkedin.com/in/robert-hagopian-networking/
