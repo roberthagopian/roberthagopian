@@ -8,7 +8,15 @@
 
 <h2>👨‍💻 My Networking Labs</h2>
 
+- [Terminating 100-pair Telco on IDC 110](https://github.com/roberthagopian/Terminating-100-pair-Telo-on-IDC-110)
+- [Cross-Connect IDC 110 to IDC 66](https://github.com/roberthagopian/Cross-Connect-IDC-110-to-IDC-66)
+- [Installing 25-Pair Cable from Main Telco Room to Telco Room](https://github.com/roberthagopian/25pair-main-telco-to-telco)
+
 <h2>🔏 Security and ☁️:Cloud Labs</h2>
+
+- [Terminating 100-pair Telco on IDC 110](https://github.com/roberthagopian/Terminating-100-pair-Telo-on-IDC-110)
+- [Cross-Connect IDC 110 to IDC 66](https://github.com/roberthagopian/Cross-Connect-IDC-110-to-IDC-66)
+- [Installing 25-Pair Cable from Main Telco Room to Telco Room](https://github.com/roberthagopian/25pair-main-telco-to-telco)
 
 <h2>📝 Certificates</h2>
 <p align="left">
@@ -22,8 +30,8 @@
 [<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 [<img align="left" alt=" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
 
-[instagram]: https://www.instagram.com/beverlytrills/
 [linkedin]: https://linkedin.com/in/robert-hagopian-networking/
+[instagram]: https://www.instagram.com/beverlytrills/
 
 <!--
 **roberthagopian/roberthagopian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
