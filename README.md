@@ -1,5 +1,4 @@
-<h1>Hello GitLand, it's Robert! Aspiring<br/><a href="https://[github.com/roberthagopian](https://github.com/roberthagopian)">Network Engineer</a>, <a href="https://.linkedin.com/in/
-robert-hagopian-networking/"</a></h1>
+<h1>Hello GitLand, it's Robert! Aspiring<br/><a href="https://www.linkedin.com/in/robert-hagopian-networking/">Network Engineer</a></h1>
 
 <h2>🔌Cabling Skills Labs</h2>
 
