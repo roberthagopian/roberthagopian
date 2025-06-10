@@ -5,9 +5,10 @@
 Join me on my road to becoming a Network Engineer. I have made a living off tech my entire life, but this marks my transition into the formal career side of things. I'm really passionate about networking and am excited to share these labs as I foray into the cloud and security fields.
 <h2>🔌Cabling Skills Labs</h2>
 
-- [Terminating 100-pair Telco on IDC 110](https://github.com/roberthagopian/Terminating-100-pair-Telo-on-IDC-110)
+- [Terminating 100-Pair Telco on IDC 110](https://github.com/roberthagopian/Terminating-100-pair-Telo-on-IDC-110)
 - [Cross-Connect IDC 110 to IDC 66](https://github.com/roberthagopian/Cross-Connect-IDC-110-to-IDC-66)
 - [Installing 25-Pair Cable from Main Telco Room to Telco Room](https://github.com/roberthagopian/25pair-main-telco-to-telco)
+- [Terminating 25-Pair Cable IDC 66 to IDC 110](https://github.com/roberthagopian/Terminating-25-Pair-Cable-IDC-66-to-IDC-110)
 
 <h2>👨‍💻 My Networking Labs</h2>
 
