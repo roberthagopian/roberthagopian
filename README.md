@@ -1,6 +1,8 @@
-<h1>Hello GitLand, it's Robert! Aspiring<br/><a href="https://www.linkedin.com/in/robert-hagopian-networking/">Network Admin / SysAdmin</a></h1>
-blah blah blah blah blah
+# 🏄‍♂️ Robert Hagopian
 
+**`Networking Technician (SysAdmin/Cloud/Security)`**
+
+Join me on my road to becoming a Network Engineer. I have made a living off tech my entire life, but this marks my transition into the formal career side of things. I'm really passionate about networking and am excited to share these labs as I foray into the cloud and security fields.
 <h2>🔌Cabling Skills Labs</h2>
 
 - [Terminating 100-pair Telco on IDC 110](https://github.com/roberthagopian/Terminating-100-pair-Telo-on-IDC-110)
