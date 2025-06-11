@@ -2,7 +2,7 @@
 
 **`Networking Technician (SysAdmin/Cloud/Security)`**
 
-Join me on my road to becoming a Network Engineer. I have made a living off tech my entire life, but this marks my transition into the formal career side of things. I'm really passionate about networking and am excited to share these labs as I foray into the cloud and security fields.
+Join me on my road to becoming a Network Engineer. I have made a living off tech my entire life, but this marks my transition into the formal career side of things. I'm really passionate about networking and I am excited to share these labs as I foray into the cloud and security fields.
 <h2>🔌Cabling Skills Labs</h2>
 
 - [Punchdown 100-Pair Telco on IDC 110](https://github.com/roberthagopian/Terminating-100-pair-Telo-on-IDC-110)
