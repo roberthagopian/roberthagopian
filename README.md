@@ -17,7 +17,7 @@ Active Directory Lab (LOADING........)
 
 <h2>🔏 Security and ☁️:Cloud Labs</h2>
   
-- [My Active Directory Lab](https://github.com/roberthagopian/MyADLab)
+- [Logical Diagram of My Active Directory Lab](https://github.com/roberthagopian/MyADLab)
 
 
 
