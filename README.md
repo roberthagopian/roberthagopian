@@ -20,6 +20,7 @@ Active Directory Lab (LOADING........)
 - [Logical Diagram of My Active Directory Lab](https://github.com/roberthagopian/MyADLab)
 - [ELK Stack - Setting up Elastic Search](https://github.com/roberthagopian/myelasticsearchsetup)
 - [ELK Stack - Setting up Kibana](https://github.com/roberthagopian/myelasticsearchsetup)
+- [ELK Stack - Setting up Fleet Server](https://github.com/roberthagopian/spinupfleet)
 
 
 
