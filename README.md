@@ -21,6 +21,7 @@ Active Directory Lab (LOADING........)
 - [ELK Stack - Setting up Elastic Search](https://github.com/roberthagopian/myelasticsearchsetup)
 - [ELK Stack - Setting up Kibana](https://github.com/roberthagopian/myelasticsearchsetup)
 - [ELK Stack - Setting up Fleet Server](https://github.com/roberthagopian/spinupfleet)
+- [ELK Stack - Setting up Sysmon](https://github.com/roberthagopian/mysysmon)
 
 
 
