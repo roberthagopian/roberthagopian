@@ -24,6 +24,8 @@ Cloud Based Elk Stack Lab
 - [ELK Stack - Setting up Fleet Server](https://github.com/roberthagopian/spinupfleet)
 - [ELK Stack - Setting up Sysmon](https://github.com/roberthagopian/mysysmon)
 
+Traffic Analysis Labs
+- [Zeke - Network Analysis](https://github.com/roberthagopian/zekelab)
 
 
 
