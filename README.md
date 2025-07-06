@@ -15,6 +15,7 @@ Join me on my road to becoming a Network Engineer. I have made a living off tech
 
 Active Directory Lab
 - [Logical Diagram of My Active Directory Lab](https://github.com/roberthagopian/MyADLab)
+- [Logical Diagram of My Active Directory Lab](https://github.com/roberthagopian/MyADLab)
 
 
 <h2>🔏 CyberSecurity and ☁️:Cloud Labs</h2>
