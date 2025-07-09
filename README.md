@@ -17,7 +17,8 @@ Active Directory Lab
 - [Logical Diagram of My Active Directory Lab](https://github.com/roberthagopian/MyADLab)
 - [Active Directory Cloud Setups](https://github.com/roberthagopian/myadlabcloudsetup)
 - [Active Directory Install+Promote to Domain +Join Target Domain](https://github.com/roberthagopian/ADInstall)
-
+- [Splunk Installation, Splunk Universale Forwarder, and Creating my custom alert](https://github.com/roberthagopian/splunkinstallationandsetup)
+- [Shuffle, Slack, and Creating my Playbook](https://github.com/roberthagopian/shuffleslackandplaybook/tree/main)
 
 <h2>🔏 CyberSecurity and ☁️:Cloud Labs</h2>
 
