@@ -3,21 +3,13 @@
 **`Networking Technician (SysAdmin/Cloud/Security)`**
 
 Join me on my road to becoming a Network Engineer. I have made a living off tech my entire life, but this marks my transition into the formal career side of things. I'm really passionate about networking and I am excited to share these labs as I foray into the cloud and security fields.
-<h2>🔌Cabling Skills Labs</h2>
-
-- [Punchdown 100-Pair Telco on IDC 110](https://github.com/roberthagopian/Terminating-100-pair-Telo-on-IDC-110)
-- [Cross-Connect IDC 110 to IDC 66](https://github.com/roberthagopian/Cross-Connect-IDC-110-to-IDC-66)
-- [Installing 25-Pair Cable from Main Telco Room to Telco Room](https://github.com/roberthagopian/25pair-main-telco-to-telco)
-- [Punchdown 25-Pair Cable IDC 66 to IDC 110](https://github.com/roberthagopian/Terminating-25-Pair-Cable-IDC-66-to-IDC-110)
-- [Punchdown 25-pair, 5 Cross Connect, 2 Station, 2 Cat3, 2 Cat5e from IDC 66 to IDC 110](https://github.com/roberthagopian/Terminating-5-Telco-2-Station-2-Cat3-2-Cat5e-from-IDC-66-to-IDC-110)
-
 <h2>👨‍💻 My Networking Labs</h2>
 
 Active Directory Lab
 - [Logical Diagram of My Active Directory Lab](https://github.com/roberthagopian/MyADLab)
 - [Active Directory Cloud Setups](https://github.com/roberthagopian/myadlabcloudsetup)
 - [Active Directory Install+Promote to Domain +Join Target Domain](https://github.com/roberthagopian/ADInstall)
-- [Splunk Installation, Splunk Universale Forwarder, and Creating my custom alert](https://github.com/roberthagopian/splunkinstallationandsetup)
+- [Splunk Installation, Splunk Universal Forwarder, and Creating my custom alert](https://github.com/roberthagopian/splunkinstallationandsetup)
 - [Shuffle, Slack, and Creating my Playbook](https://github.com/roberthagopian/shuffleslackandplaybook/tree/main)
 
 <h2>🔏 CyberSecurity and ☁️:Cloud Labs</h2>
@@ -31,6 +23,14 @@ Cloud Based Elk Stack Lab
 
 Traffic Analysis Labs
 - [Zeke - Network Analysis](https://github.com/roberthagopian/zekelab)
+
+<h2>🔌Cabling Skills Labs</h2>
+
+- [Punchdown 100-Pair Telco on IDC 110](https://github.com/roberthagopian/Terminating-100-pair-Telo-on-IDC-110)
+- [Cross-Connect IDC 110 to IDC 66](https://github.com/roberthagopian/Cross-Connect-IDC-110-to-IDC-66)
+- [Installing 25-Pair Cable from Main Telco Room to Telco Room](https://github.com/roberthagopian/25pair-main-telco-to-telco)
+- [Punchdown 25-Pair Cable IDC 66 to IDC 110](https://github.com/roberthagopian/Terminating-25-Pair-Cable-IDC-66-to-IDC-110)
+- [Punchdown 25-pair, 5 Cross Connect, 2 Station, 2 Cat3, 2 Cat5e from IDC 66 to IDC 110](https://github.com/roberthagopian/Terminating-5-Telco-2-Station-2-Cat3-2-Cat5e-from-IDC-66-to-IDC-110)
 
 
 
