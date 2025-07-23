@@ -14,6 +14,13 @@ Active Directory Lab
 
 <h2>🔏 CyberSecurity and ☁️:Cloud Labs</h2>
 
+SOC Automation Project
+-
+-
+-
+-
+-
+
 Cloud Based Elk Stack Lab
 - [Logical Diagram of My Active Directory Lab](https://github.com/roberthagopian/MyADLab)
 - [ELK Stack - Setting up Elastic Search](https://github.com/roberthagopian/myelasticsearchsetup)
