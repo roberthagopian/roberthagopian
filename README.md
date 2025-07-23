@@ -15,7 +15,7 @@ Active Directory Lab
 <h2>🔏 CyberSecurity and ☁️:Cloud Labs</h2>
 
 SOC Automation Project
--
+- [Logical Diagram of SOC Automation playbook](https://github.com/roberthagopian/SOCautodiagram)
 -
 -
 -
