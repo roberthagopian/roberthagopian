@@ -25,9 +25,9 @@ Virtual Machine Networked Labs
 
 SOC Automation Project
 - [Logical Diagram of SOC Automation playbook](https://github.com/roberthagopian/SOCautodiagram)
--[Install sysmon on a Azure Windows10 domain]()
--Install Wazuh onto a DigitalOcean Linux droplet()
--Install Apache theHive]
+- [Install sysmon on a Azure Windows10 domain]()
+- Install Wazuh onto a DigitalOcean Linux droplet()
+- Install Apache theHive]
 -
 
 Cloud Based Elk Stack Lab
