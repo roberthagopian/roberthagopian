@@ -5,14 +5,7 @@
 Join me on my road to becoming a Network Engineer. I have made a living off tech my entire life, but this marks my transition into the formal career side of things. I'm really passionate about networking and I am excited to share these labs as I foray into the cloud and security fields.
 <h2>👨‍💻 My Networking Labs</h2>
 
-Active Directory Lab
-- [Logical Diagram of My Active Directory Lab](https://github.com/roberthagopian/MyADLab)
-- [Active Directory Cloud Setups](https://github.com/roberthagopian/myadlabcloudsetup)
-- [Active Directory Install+Promote to Domain +Join Target Domain](https://github.com/roberthagopian/ADInstall)
-- [Splunk Installation, Splunk Universal Forwarder, and Creating my custom alert](https://github.com/roberthagopian/splunkinstallationandsetup)
-- [Shuffle, Slack, and Creating my Playbook](https://github.com/roberthagopian/shuffleslackandplaybook)
-
-Virtual Machine Networked Labs
+Virtual Machine Networked Labs (CCNA hands on prep)
 - [VirtualBox_Hypervisor_Installation](https://github.com/roberthagopian/VirtualBox_Hypervisor_Installation)
 - [VirtualBox_Windows10_installation](https://github.com/roberthagopian/VirtualBox_Windows10_installation)
 - [Vmware_Windows10_Installation](https://github.com/roberthagopian/Vmware_Windows10_Installation)
@@ -20,6 +13,13 @@ Virtual Machine Networked Labs
 - [Vmware_WindowsServer2022_Installation](https://github.com/roberthagopian/Vmware_WindowsServer2022_Installation)
 - [Vmware_DNS_WEB_FTP](https://github.com/roberthagopian/Vmware_DNS_WEB_FTP)
 - [Vmware_DNS_WEB_NAT](https://github.com/roberthagopian/Vmware_DNS_WEB_NAT)
+
+Active Directory Lab
+- [Logical Diagram of My Active Directory Lab](https://github.com/roberthagopian/MyADLab)
+- [Active Directory Cloud Setups](https://github.com/roberthagopian/myadlabcloudsetup)
+- [Active Directory Install+Promote to Domain +Join Target Domain](https://github.com/roberthagopian/ADInstall)
+- [Splunk Installation, Splunk Universal Forwarder, and Creating my custom alert](https://github.com/roberthagopian/splunkinstallationandsetup)
+- [Shuffle, Slack, and Creating my Playbook](https://github.com/roberthagopian/shuffleslackandplaybook)
 
 <h2>🔏 CyberSecurity and ☁️:Cloud Labs</h2>
 
