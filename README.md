@@ -42,11 +42,11 @@ Traffic Analysis Labs
 
 <h2>🔌Cabling Skills Labs</h2>
 
-- [Punchdown 100-Pair Telco on IDC 110](https://github.com/roberthagopian/Terminating-100-pair-Telo-on-IDC-110)
-- [Cross-Connect IDC 110 to IDC 66](https://github.com/roberthagopian/Cross-Connect-IDC-110-to-IDC-66)
-- [Installing 25-Pair Cable from Main Telco Room to Telco Room](https://github.com/roberthagopian/25pair-main-telco-to-telco)
-- [Punchdown 25-Pair Cable IDC 66 to IDC 110](https://github.com/roberthagopian/Terminating-25-Pair-Cable-IDC-66-to-IDC-110)
-- [Punchdown 25-pair, 5 Cross Connect, 2 Station, 2 Cat3, 2 Cat5e from IDC 66 to IDC 110](https://github.com/roberthagopian/Terminating-5-Telco-2-Station-2-Cat3-2-Cat5e-from-IDC-66-to-IDC-110)
+- [Telco100Pair-Punchdown-Lab](https://github.com/roberthagopian/Terminating-100-pair-Telo-on-IDC-110)
+- [CrossConnect-110to66-Lab](https://github.com/roberthagopian/Cross-Connect-IDC-110-to-IDC-66)
+- [Telco25Pair-Installation-Lab](https://github.com/roberthagopian/25pair-main-telco-to-telco)
+- [Telco25Pair-Punchdown-Lab](https://github.com/roberthagopian/Terminating-25-Pair-Cable-IDC-66-to-IDC-110)
+- [Telco25Pair-MultiLine-CrossConnect-Lab](https://github.com/roberthagopian/Terminating-5-Telco-2-Station-2-Cat3-2-Cat5e-from-IDC-66-to-IDC-110)
 
 
 
